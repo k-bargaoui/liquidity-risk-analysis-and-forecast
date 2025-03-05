@@ -1,0 +1,10 @@
+yfinance
+numpy
+pandas
+matplotlib
+seaborn
+statsmodels
+scikit-learn
+xgboost
+shap
+warnings
