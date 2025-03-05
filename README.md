@@ -31,3 +31,6 @@ Other Metrics
 Order Book Imbalance: Measures the imbalance between bid and ask volumes.
 Market Resilience: Measures how fast spreads close after widening.
 Hurst Exponent: Measures the persistence of a time series.
+
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
